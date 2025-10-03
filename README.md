@@ -6,13 +6,13 @@ This project uses **Python (Flask)** for the web backend, **scikit-learn** for M
 ---
 
 ## 📂 Project Structure
-├── app.py # Flask backend for serving the web app
-├── index.html # Frontend (user form for inputs)
-├── HeartDisease.py # Model training & preprocessing script
-├── Heart Disease.ipynb # Jupyter notebook for EDA & training
-├── heart.csv # Dataset
-├── model.pkl # Trained Random Forest model
-├── scaler.pkl # Scaler used for preprocessing
+├── app.py # Flask backend for serving the web app```
+├── index.html # Frontend (user form for inputs)```
+├── HeartDisease.py # Model training & preprocessing script```
+├── Heart Disease.ipynb # Jupyter notebook for EDA & training```
+├── heart.csv # Dataset```
+├── model.pkl # Trained Random Forest model```
+├── scaler.pkl # Scaler used for preprocessing```
 
 
 ---
